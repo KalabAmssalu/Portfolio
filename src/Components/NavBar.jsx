@@ -30,7 +30,7 @@ const NavBar = () => {
         },
     ]
   return (
-    <div className='fixed flex items-center justify-between w-full h-20 px-4 text-white bg-black'>
+    <div className='fixed flex z-20 items-center justify-between w-full h-20 px-4 text-white bg-black'>
         <div>
             <h1 className='ml-2 text-5xl'>Kalab</h1>
         </div>
