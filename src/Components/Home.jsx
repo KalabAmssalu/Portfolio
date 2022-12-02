@@ -1,5 +1,5 @@
 import React from "react";
-import HeroImage from "../assets/heroImage.png";
+import HeroImage from "../assets/hero.jpg";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
 
@@ -16,7 +16,7 @@ const Home = () => {
             I'm a Full Stack Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum quaerat nisi tempore et. Deserunt quasi nisi laboriosam rem sapiente officia fugit animi rerum voluptatem numquam, excepturi saepe iste nobis quaerat enim dolore inventore unde atque facere? In eligendi, expedita labore delectus voluptates repudiandae est, totam nihil deleniti reprehenderit exercitationem, explicabo obcaecati repellat excepturi voluptatem eos doloribus? Itaque suscipit voluptates corporis nobis corrupti, aspernatur fugit non id quia quo sint fugiat alias atque earum voluptas minus at delectus eos, quam ex tempora? Quasi dolor aut beatae sunt voluptates praesentium exercitationem tempore ratione. Aspernatur vel laudantium inventore nam nobis excepturi, id maxime!
+           Lorem ipsum, dolor sit amet consectetur adipisicing elit. id maxime!
           </p>
 
           <div>
